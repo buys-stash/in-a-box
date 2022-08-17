@@ -14,7 +14,7 @@ metadata:
   name: azure-pipelines-scaledobject
 spec:
   scaleTargetRef:
-    name: azdevops
+    name: azhosts
   minReplicaCount: 3
   maxReplicaCount: 5
   triggers:

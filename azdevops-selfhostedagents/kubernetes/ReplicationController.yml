@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: azdevops
+  name: azhosts
   namespace: azdevops-agents
   labels:
     app: azdevops-agent
